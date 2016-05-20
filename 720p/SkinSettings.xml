@@ -628,7 +628,7 @@
 						<include>settings_Listbutton</include>
 					</control>
 					<control type="button" id="10021">
-						<label>hyuomola, Jucgshu, kolabor, legostrike, LoADrunner, mcmjau, NEOhidra, nicolai92, Okashu, Olart, peppe_sr,</label>
+						<label>hyuomola, Jucgshu, Rafał Wójcik, legostrike, LoADrunner, mcmjau, NEOhidra, nicolai92, Okashu, Olart, peppe_sr,</label>
 						<onclick>noop</onclick>
 						<include>settings_Listbutton</include>
 					</control>
